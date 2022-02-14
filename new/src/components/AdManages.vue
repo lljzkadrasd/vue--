@@ -81,7 +81,7 @@
         <el-table-column
           class="advert-table"
           prop="points"
-          label="奖励积分"
+          label="奖励积DE"
           width="130"
           :show-overflow-tooltip="true"
         >
