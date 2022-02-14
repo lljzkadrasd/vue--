@@ -6,6 +6,7 @@ export default {
     name:'first',
     data(){
         return{
+            hah:ye
 
         }
     }

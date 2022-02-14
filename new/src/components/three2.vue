@@ -1,5 +1,5 @@
 <template>
-    <div>我是灭霸didi</div>
+    <div>我是灭霸的哥哥</div>
 </template>
 <script>
 export default {
